@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * [Description] 
+ *
+ * @return [type] [description]
+ */
+public function ${1}()
+{
+	${2}
+}
+]]></content>
+	<tabTrigger>met</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

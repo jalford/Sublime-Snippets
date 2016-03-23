@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+protected function ${1}()
+{
+	${2}
+}
+]]></content>
+	<tabTrigger>pmet</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
